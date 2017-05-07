@@ -1,1 +1,1 @@
-https://jcheminf.springeropen.com/articles/10.1186/1758-2946-4-10
+[Adresinde](https://jcheminf.springeropen.com/articles/10.1186/1758-2946-4-10) bulunan "In-silico predictive mutagenicity model generation using supervised learning approaches" isimli makalenin veri setleri kullanılarak veri madenciliği algoritmaları denenmiştir.
